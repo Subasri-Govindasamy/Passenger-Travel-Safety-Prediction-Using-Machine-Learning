@@ -1,0 +1,8 @@
+Age,Heart Disease,Mobility Issues,Hypertension,Respiratory Issues,Source,Destination,Mode of Travel,Weather,Previous Accidents,Travel Safety
+25,No,No,No,No,Delhi,Mumbai,Train,Clear,No,Safe
+60,Yes,No,Yes,No,Chennai,Hyderabad,Air,Rainy,Yes,Not Safe
+45,No,Yes,No,Yes,Pune,Jaipur,Road,Foggy,Yes,Not Safe
+30,No,No,No,No,Kochi,Kolkata,Ship,Clear,No,Safe
+70,Yes,Yes,Yes,Yes,Mumbai,Bengaluru,Train,Stormy,Yes,Not Safe
+55,No,Yes,Yes,No,Hyderabad,Ahmedabad,Air,Clear,No,Safe
+20,No,No,No,No,Coimbatore,Lucknow,Road,Sunny,No,Safe
